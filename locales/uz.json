@@ -1,0 +1,136 @@
+{
+   "nav": {
+    "home": "Bosh sahifa",
+    "courses": "Kurslar",
+    "schedule": "Jadval",
+    "about": "Biz haqimizda",
+    "contact": "Aloqa",
+    "register": "Ro‘yxatdan o‘tish"
+  },
+  "hero": {
+    "title": "OVERMAX O‘quv Markazi",
+    "subtitle": "Kelajak kasblariga tayyorlaydigan zamonaviy markaz.",
+    "cta_primary": "Ro‘yxatdan o‘tish",
+    "cta_secondary": "Kurslarni ko‘rish",
+    "slogan": "Kelajak sari birga qadam tashlaymiz."
+  },
+  "courses": {
+    "title": "Mashhur kurslarimiz",
+    "subtitle": "Eng so'ralgan va samarali kurslarimiz bilan tanishing",
+    "view_all": "Barcha kurslarni ko'rish",
+    "details": "Batafsil",
+    "from": "dan",
+    "per_month": "so'm/oy",
+    "students": "o'quvchi",
+    "duration": "Davomiyligi",
+    "level": "Daraja",
+    "age": "Yosh",
+    "format": "Format",
+    "mentor": "Mentor",
+    "rating": "Reyting"
+  },
+  "why_overmax": {
+    "title": "Nima uchun OVERMAX?",
+    "subtitle": "Bizning afzalliklarimiz va o'quvchilarimizga taqdim etadigan imkoniyatlar",
+    "practical_lessons": "Amaliy darslar",
+    "practical_lessons_desc": "Har bir dars real loyihalar ustida ishlash bilan birga keladi",
+    "experience_projects": "Tajriba loyihalar",
+    "experience_projects_desc": "Portfolio uchun professional darajadagi loyihalar yarating",
+    "mentorship": "Mentorlik",
+    "mentorship_desc": "Tajribali mentorlar tomonidan shaxsiy yo'l-yo'riq",
+    "parent_reports": "Ota-ona uchun hisobot",
+    "parent_reports_desc": "Farzandingizning o'sishini kuzatib boring",
+    "flexible_schedule": "Moslashuvchan jadval",
+    "flexible_schedule_desc": "Sizga qulay vaqtda dars olish imkoniyati",
+    "community": "Hamjamiyat",
+    "community_desc": "O'quvchilar va mentorlar bilan kuchli aloqa"
+  },
+  "stats": {
+    "title": "Bizning natijalarimiz",
+    "subtitle": "Raqamlar orqali OVERMAX muvaffaqiyati",
+    "teachers": "Tajribali ustoz",
+    "directions": "Kurs yo'nalishi",
+    "students": "Muvaffaqiyatli o'quvchi",
+    "rating": "O'rtacha reyting",
+    "professional_mentors": "Professional mentorlar",
+    "various_fields": "Turli sohalar bo'yicha",
+    "graduates": "Bitiruvchilarimiz",
+    "student_rating": "O'quvchilar bahosi"
+  },
+  "schedule": {
+    "title": "Bugungi dars jadvali",
+    "subtitle": "Bugun o'tkaziladigan darslar va ularning vaqtlari",
+    "view_full": "To'liq jadvalni ko'rish",
+    "time": "Vaqt",
+    "course": "Kurs",
+    "level": "Daraja",
+    "room": "Xona",
+    "mentor": "Mentor",
+    "students": "O'quvchilar"
+  },
+  "testimonials": {
+    "title": "O'quvchilarimiz fikri",
+    "subtitle": "Bizning o'quvchilarimiz OVERMAX haqida nima deyishadi"
+  },
+  "faq": {
+    "title": "Tez-tez so'raladigan savollar",
+    "subtitle": "Eng ko'p so'raladigan savollar va ularning javoblari",
+    "view_all": "Barcha savollarni ko'rish"
+  },
+  "lead_capture": {
+    "title": "Bepul konsultatsiya oling!",
+    "subtitle": "Ma'lumot olish va ro'yxatdan o'tish uchun formani to'ldiring",
+    "name": "Ism familiya",
+    "phone": "Telefon raqam",
+    "course": "Qiziqtirgan kurs",
+    "consent": "Shaxsiy ma'lumotlarimni qayta ishlashga roziman",
+    "submit": "Ariza yuborish",
+    "success": "Arizangiz qabul qilindi! Tez orada bog'lanamiz."
+  },
+  "contact": {
+    "title": "Biz bilan bog'laning",
+    "subtitle": "Savollaringiz bormi? Biz bilan bog'laning va bepul konsultatsiya oling",
+    "info": "Aloqa ma'lumotlari",
+    "phone": "Telefon",
+    "telegram": "Telegram",
+    "instagram": "Instagram",
+    "address": "Manzil",
+    "working_hours": "Ish vaqti",
+    "quick_contact": "Tezkor aloqa",
+    "call": "Qo'ng'iroq qilish",
+    "write_telegram": "Telegram orqali yozish",
+    "location": "Bizning joylashuvimiz",
+    "open_map": "Yandex Xaritada ochish",
+    "send_message": "Bizga xabar yuboring",
+    "email": "Email",
+    "message": "Xabar",
+    "send": "Xabar yuborish",
+    "success": "Xabaringiz yuborildi! Tez orada bog'lanamiz."
+  },
+  "footer": {
+    "slogan": "Kelajak kasblariga tayyorlaydigan zamonaviy markaz",
+    "quick_links": "Tezkor havolalar",
+    "contact": "Aloqa",
+    "location": "Manzil",
+    "copyright": "© 2024 OVERMAX O'quv Markazi. Barcha huquqlar himoyalangan.",
+    "privacy": "Maxfiylik siyosati",
+    "terms": "Foydalanish shartlari"
+  },
+  "common": {
+    "loading": "Yuklanmoqda...",
+    "error": "Xatolik",
+    "success": "Muvaffaqiyat!",
+    "required": "Majburiy maydonlar",
+    "optional": "ixtiyoriy",
+    "all": "Barchasi",
+    "beginner": "Boshlang'ich",
+    "intermediate": "O'rta",
+    "advanced": "Yuqori",
+    "offline": "Offline",
+    "online": "Online",
+    "filters": "Filtrlar",
+    "direction": "Yo'nalish",
+    "age_7_13": "7-13 yosh",
+    "age_14_plus": "14+ yosh"
+  }
+}
