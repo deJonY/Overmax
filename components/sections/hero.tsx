@@ -15,7 +15,7 @@ export function Hero() {
       <div className="container mx-auto px-4 py-16 lg:py-24">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           {/* Left content */}
-          <div className="space-y-8">
+          <div className="space-y-8 ps-30">
             <div className="space-y-4">
               <h1 className="text-4xl lg:text-6xl font-bold text-balance">{t("hero.title")}</h1>
               <p className="text-xl text-muted-foreground text-pretty">{t("hero.subtitle")}</p>
